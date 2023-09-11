@@ -31,9 +31,9 @@ const Header = () => {
       <nav className="h-full px-4 max-w-container mx-auto relative">
         <Flex className="flex items-center justify-between h-full">
           <Link to="/">
-            <div>
-              <Image className="w-20 object-cover" imgSrc={logo} />
-            </div>
+            <p className="font-bold">
+              My dear motu gussa ni shoping krte h
+            </p>
           </Link>
           <div>
             {showMenu && (
