@@ -32,7 +32,7 @@ const Header = () => {
         <Flex className="flex items-center justify-between h-full">
           <Link to="/">
             <p className="font-bold">
-              My dear motu gussa ni shoping krte h
+              My dear motu gussa ni shopping krte h
             </p>
           </Link>
           <div>
