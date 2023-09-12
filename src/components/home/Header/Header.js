@@ -31,9 +31,7 @@ const Header = () => {
       <nav className="h-full px-4 max-w-container mx-auto relative">
         <Flex className="flex items-center justify-between h-full">
           <Link to="/">
-            <p className="font-bold">
-              My dear motu gussa ni shopping krte h
-            </p>
+            <p className="font-bold">ShopifyCentral</p>
           </Link>
           <div>
             {showMenu && (
